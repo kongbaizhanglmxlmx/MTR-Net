@@ -18,13 +18,8 @@ During training, next-step forecasting, input-sequence reconstruction, and weigh
 
 The overall architecture of MTR-Net is shown below.
 
-<p align="center">
-  <img src="figures/fig1_mtr_net_architecture.png" width="900">
-</p>
+<img width="302" height="107" alt="图1" src="https://github.com/user-attachments/assets/ee7e0d8f-4e13-49b7-92ca-c7aed9e2895e" />
 
-<p align="center">
-  <b>Figure 1. Architecture of the MTR-Net rainfall detection model.</b>
-</p>
 
 The model contains three main components:
 
@@ -540,13 +535,8 @@ The rainfall detection rate increases as the path-averaged rainfall intensity in
 
 When the path-averaged rainfall intensity exceeds **2 mm/h**, the rainfall detection rate remains above approximately **93%**.
 
-<p align="center">
-  <img src="figures/fig2_rainfall_detection_rate.png" width="850">
-</p>
+<img width="985" height="886" alt="图2" src="https://github.com/user-attachments/assets/698ce80e-9861-4408-aac2-2ed3b2137788" />
 
-<p align="center">
-  <b>Figure 2. Rainfall detection rate under different path-averaged rainfall intensities.</b>
-</p>
 
 The detection rates for different rainfall-intensity intervals are:
 
@@ -573,13 +563,7 @@ Weak rainfall remains a more difficult detection scenario.
 
 Representative strong- and weak-rainfall events are shown below.
 
-<p align="center">
-  <img src="figures/fig3_representative_rainfall_cases.png" width="900">
-</p>
-
-<p align="center">
-  <b>Figure 3. Representative rainfall cases under different rainfall intensities.</b>
-</p>
+<img width="985" height="886" alt="图3" src="https://github.com/user-attachments/assets/b95569b3-f015-4cd3-854d-7e529bcaea8d" />
 
 The examples show that strong rainfall events usually produce more pronounced and consistent signal-loss variations in both propagation directions.
 
