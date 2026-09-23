@@ -700,26 +700,4 @@ https://github.com/kongbaizhanglmxlmx/MTR-Net
 
 ---
 
-## Reproducibility
 
-The repository provides the implementation of:
-
-```text
-data loading
-multi-level temporal representation
-forecasting
-reconstruction
-weighted auxiliary wet/dry classification
-anomaly-score calculation
-Epsilon thresholding
-performance evaluation
-rainfall-intensity analysis
-```
-
-For reproducibility, please use the same OpenMRG data preprocessing procedure and parameter settings described above.
-
----
-
-## License
-
-Please check the license requirements of both this repository and the original OpenMRG dataset before redistribution or reuse.
