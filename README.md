@@ -18,7 +18,8 @@ During training, next-step forecasting, input-sequence reconstruction, and weigh
 
 The overall architecture of MTR-Net is shown below.
 
-<img width="302" height="107" alt="图1" src="https://github.com/user-attachments/assets/ee7e0d8f-4e13-49b7-92ca-c7aed9e2895e" />
+<img width="1991" height="665" alt="image" src="https://github.com/user-attachments/assets/16d85fa9-e936-4e42-8461-8788cf6dfb4c" />
+
 
 
 The model contains three main components:
